@@ -1,7 +1,7 @@
 # Hi 👋, I'm Janhavi Bhoir
 *IT Engineer | Web Developer*
 
-<img src="https://unsplash.com/photos/monitor-showing-java-programming-OqtafYT5kTw?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash" width="800"/>
+<img src="https://www.canva.com/design/DAGy-l-SM0o/nGREBRUPUXSF9-F1-4BKqw/edit?utm_content=DAGy-l-SM0o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  width="800"/>
 
 ---
 
@@ -9,7 +9,7 @@
 Hi there! I'm Janhavi Bhoir, a passionate IT Engineer with experience in building scalable, efficient, and user-friendly applications.
 
 - 🔭 Currently studying at Vidyavardhini's College of Engineering 
-- 🌱 Learning *AWS, AI/ML, Cloud Deployments*  
+- 🌱 Learning *AWS, AI/ML, React*  
 - 💬 Ask me about *FULL Stack,AI Integrations,Web development*  
 - 📫 Reach me at: *janhavibhoir3016@gmail.com*
 
