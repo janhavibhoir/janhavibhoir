@@ -23,7 +23,7 @@ Hi there! I'm Janhavi Bhoir, a passionate IT Engineer with experience in buildin
 ## 💻 Technical Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,,nodejs,express,mongodb,mysql,flutter,html,css,,docker,git,github,firebase,django,redis,linux,aws,python,java,c,cpp&perline=12" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,mysql,flutter,html,css,docker,git,github,firebase,django,redis,linux,aws,python,java,c,cpp&perline=12" />
 </p>
 
 ---
