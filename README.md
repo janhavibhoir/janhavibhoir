@@ -1,7 +1,7 @@
 # Hi 👋, I'm Janhavi Bhoir
 *IT Engineer | Web Developer*
 
-<img src="https://www.canva.com/design/DAGy-l-SM0o/nGREBRUPUXSF9-F1-4BKqw/edit?utm_content=DAGy-l-SM0o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  width="800"/>
+<img src="https://github.com/janhavibhoir/janhavibhoir/blob/main/mybanner.png?raw=true"  width="800"/>
 
 ---
 
