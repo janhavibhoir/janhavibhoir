@@ -27,14 +27,15 @@ Hi there! I'm Janhavi Bhoir, a passionate IT Engineer with experience in buildin
 </p>
 
 ---
+
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 📧 [Email](mailto:your@email.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-bhoir-084041344/)  
+- 📧 [Email](janhavibhoir3016@email.com)  
 - 🌍 [Portfolio/Website](https://your-website.com)
 
 ---
 
-⭐️ From [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+⭐️ From [janhavibhoir](https://github.com/janhavibhoir)
 
 ## 📊 GitHub Stats
 
