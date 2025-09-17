@@ -30,7 +30,7 @@ Hi there! I'm Janhavi Bhoir, a passionate IT Engineer with experience in buildin
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-bhoir-084041344/)  
-- 📧 [Email](janhavibhoir3016@email.com)  
+- 📧 [Email](janhavibhoir3016@gmail.com)  
 - 🌍 [Portfolio/Website](http://127.0.0.1:5500/Mywebsite/)
 
 ---
