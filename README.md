@@ -8,7 +8,7 @@
 ## 🚀 About Me
 Hi there! I'm Janhavi Bhoir, a passionate IT Engineer with experience in building scalable, efficient, and user-friendly applications.
 
-- 🔭 Currently studying at Vidyavardhini's College of Engineering 
+- 🔭 Currently studying at Vidyavardhini's College of Engineering & Technology
 - 🌱 Learning *AWS, AI/ML, React*  
 - 💬 Ask me about *FULL Stack,AI Integrations,Web development*  
 - 📫 Reach me at: *janhavibhoir3016@gmail.com*
